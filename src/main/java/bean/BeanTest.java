@@ -14,7 +14,7 @@ public class BeanTest implements Serializable {
     String name;
 
     public BeanTest() {
-        name = "Mr. Bean";
+        name = "Mr. Bean !!!";
     }
 
     public String getName() {
